@@ -1,5 +1,12 @@
-Hi I Am FoxNgN - My name is Quoc Khanh
-, I lerning C++,
+Hi I Am FoxNg - My name is Quoc Khanh
+
+2020-2021 : C# Basic
+20/04/2022 - Now : I'm in road Of Master C++.
  
-Contact me:
-1. Mail: CaoNguyenKaitou99@gmail.com
+ Sorry my English Bad :)
+Contact Me:
+   ___________________________________
+  |  CaoNguyenKaitou99+git@gmail.com  |
+   ***********************************
+               *  Facbook/FoxNQCoder *
+                *********************
